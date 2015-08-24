@@ -28,4 +28,6 @@ _See [I (initial point in this web)](https://github.com/irnc/i)._
 
 ## Вторая мировая война
 
+* 22 июля 1945, день нападения на территорию СССР
+  * http://www.jewishgen.org/Yizkor/Krynki/kry263.html#Page264
 * [шталаг 324 (Stalag 324)](https://github.com/irnc/stalag-324)
