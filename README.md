@@ -37,3 +37,7 @@ _See [I (initial point in this web)](https://github.com/irnc/i)._
 ## Жизнь после войны
 
 * http://www.azot.by/ru/about/history
+
+## История и люди
+
+http://fremus.narod.ru/schoolbk.html
