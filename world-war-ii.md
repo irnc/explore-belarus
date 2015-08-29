@@ -43,3 +43,8 @@
 Показания нюрнбергского процесса касающиеся серветного соглашения:
 
 * http://avalon.law.yale.edu/imt/03-28-46.asp#ribbentrop1 (search word _secret_)
+
+## Сентябрь 1939 (Оборона Гродно или бой за Гродно)
+
+* [Obrona Grodna](https://pl.wikipedia.org/wiki/Obrona_Grodna)
+* [Бой за Гродно (1939)](https://ru.wikipedia.org/wiki/%D0%91%D0%BE%D0%B9_%D0%B7%D0%B0_%D0%93%D1%80%D0%BE%D0%B4%D0%BD%D0%BE_(1939))
