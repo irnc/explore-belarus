@@ -1,6 +1,16 @@
 # Вторая мировая война 
 
-Началась для Беларуси 17 сентября 1939 года.
+_Войны начинаются, когда вы их начинаете;_ в Гродно вторая мировая началась 17 сентября 1939 года.
+
+> On September 17, the first shots were heard in Grodno. A woman who was a schoolgirl at the time recounts: “In the afternoon we went out with my aunt to buy something. Shooting started on the Brygidzka Street. We saw Jews with red armbands, standing on balconies, shooting at people on the street. We darted into the Nazarene Monastery, where we waited until [the shooting] subsided. Near the house someone said that the Soviet Union crossed our border.”
+>
+> [...]
+>
+> During those September [1939] weeks the Jews were victims of hatred, brutality and violence. The Polish army dispersed, the remaining soldiers withdrew, wounded, defeated and broken. The government disintegrated, and among the Poles a mood of anti-Jewish violence prevailed, which mounted as Soviet troops entered Poland’s eastern territories. The day before Soviet units entered Grodno, workers [non-Jews, Professor Strzembosz, as you quote erroneously from Dr. Fatal Knaani] from Grodno released political prisoners from the local jail. At the same time a gang of Poles, at the initiative of the Polish judge Mikulski, decided to “bring order” to the city.
+>
+> http://www.yadvashem.org/odot_pdf/Microsoft%20Word%20-%204797.pdf
+
+---
 
 * [Shared History, Divided Memory: Jews and Others in Soviet-occupied Poland, 1939-1941](https://books.google.by/books?id=_BbvQbiaqAEC&lpg=PA338&ots=tJrpU6qGji&dq=Lola%20Wolf-Resnik&pg=PP1#v=onepage&q&f=false)
   * edited by Elazar Barkan, Elizabeth A. Cole, Kai Struve
