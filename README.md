@@ -37,3 +37,10 @@ _See [I (initial point in this web)](https://github.com/irnc/i)._
 ## История и люди
 
 http://fremus.narod.ru/schoolbk.html
+
+## Земля: археология и кладоискательство
+
+* http://www.belklad.by/forum/ & http://belklad.com/forum/ это Чеслава
+* http://www.belskarb.com/forum/
+* http://belklad.flybb.ru/ лозаменовский
+  * см. http://www.belklad.by/forum/viewtopic.php?f=35&t=11686
