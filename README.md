@@ -44,3 +44,8 @@ http://fremus.narod.ru/schoolbk.html
 * http://www.belskarb.com/forum/
 * http://belklad.flybb.ru/ лозаменовский
   * см. http://www.belklad.by/forum/viewtopic.php?f=35&t=11686
+
+### 2008, Малыщина
+
+* http://geektimes.ru/post/42490/
+* http://geektimes.ru/post/42878/
